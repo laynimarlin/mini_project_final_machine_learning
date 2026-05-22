@@ -1,20 +1,20 @@
-# Sistem Deteksi Kerusakan HP Android kNN
+Sistem Deteksi Kerusakan HP Android kNN
 
 Project Machine Learning menggunakan metode k-Nearest Neighbor (kNN).
 
-## Tools
+Tools yang digunakan
 
 * PHP
 * MySQL
 * Python
 * XAMPP
 
-## Cara Menjalankan
+Cara Menjalankan
 
 1. Import database.sql
 2. Jalankan Apache & MySQL
 3. Buka localhost/project
 
-## Dataset
+Dataset
 
 50 data training
